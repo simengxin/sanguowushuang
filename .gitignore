@@ -1,0 +1,14 @@
+/Library
+/Logs
+/obj
+/Temp
+/.idea
+/.vs
+/Outputs
+
+*.sln
+*.csproj
+*.apk
+*.log
+/.vscode/
+.DS_Store

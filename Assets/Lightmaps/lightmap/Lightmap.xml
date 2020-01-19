@@ -1,0 +1,3168 @@
+<?xml version="1.0" encoding="gb2312"?>
+<LightmappedScene xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LightmappedObjects>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40054</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.878829956</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40070</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.6599159</offsetx>
+          <offsety>0.883548737</offsety>
+          <tilex>0.0615234375</tilex>
+          <tiley>0.0615234375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40132</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8807678</offsetx>
+          <offsety>0.8504944</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40146</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850456</offsetx>
+          <offsety>0.8162956</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40158</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850456</offsetx>
+          <offsety>0.786998749</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40182</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.787899</offsetx>
+          <offsety>0.662899</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40194</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.806545258</offsetx>
+          <offsety>0.8631859</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40210</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7390938</offsetx>
+          <offsety>0.8328438</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40218</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.85635376</offsetx>
+          <offsety>0.8504944</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40272</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.739082336</offsetx>
+          <offsety>0.757637</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40366</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.639575958</offsetx>
+          <offsety>0.9794197</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40384</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.858322144</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40394</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9569206</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40412</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.8632164</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40420</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.9774475</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40434</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9921646</offsetx>
+          <offsety>0.149391174</offsety>
+          <tilex>0.00585937547</tilex>
+          <tiley>0.00585937547</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40470</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7390709</offsetx>
+          <offsety>0.662899</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40508</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.806545258</offsetx>
+          <offsety>0.837795258</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40534</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.65996933</offsetx>
+          <offsety>0.946102142</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40554</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.935436249</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40562</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.806545258</offsetx>
+          <offsety>0.812404633</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40572</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.899356842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40580</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.6599159</offsetx>
+          <offsety>0.821048737</offsety>
+          <tilex>0.0615234375</tilex>
+          <tiley>0.0615234375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40626</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.992157</offsetx>
+          <offsety>0.105438232</offsety>
+          <tilex>0.0078125</tilex>
+          <tiley>0.0078125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40650</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.930606842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40758</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.856380463</offsetx>
+          <offsety>0.8632164</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40798</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.9647522</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40806</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9755211</offsetx>
+          <offsety>0.8505211</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40816</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.9520569</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40840</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.6598511</offsetx>
+          <offsety>0.7418823</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40864</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.957942963</offsetx>
+          <offsety>0.8505211</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40878</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.940364838</offsetx>
+          <offsety>0.8505211</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40888</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9921646</offsetx>
+          <offsety>0.156227112</offsety>
+          <tilex>0.005859375</tilex>
+          <tiley>0.005859375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40922</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9226761</offsetx>
+          <offsety>0.7117386</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40930</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0</offsetx>
+          <offsety>0</offsety>
+          <tilex>1</tilex>
+          <tiley>1</tiley>
+          <mapindex>-1</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40940</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.876777649</offsetx>
+          <offsety>0.7117386</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40978</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853287</offsetx>
+          <offsety>0.156227112</offsety>
+          <tilex>0.005859375</tilex>
+          <tiley>0.005859375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40988</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8308792</offsetx>
+          <offsety>0.7117386</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>40996</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9139519</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41004</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.9393616</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41046</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.92666626</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41054</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.521297455</offsetx>
+          <offsety>0.94903183</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41078</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.944259644</offsetx>
+          <offsety>0.5624237</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41086</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8924675</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41106</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8709831</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41120</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9227867</offsetx>
+          <offsety>0.8505211</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41148</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.958889</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41174</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853134</offsetx>
+          <offsety>0.056602478</offsety>
+          <tilex>0.009765625</tilex>
+          <tiley>0.009765624</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41182</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.849498749</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41190</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9052086</offsetx>
+          <offsety>0.8505211</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41198</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.913970947</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41232</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.901275635</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41240</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9334984</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41272</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9198456</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41292</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.337368</offsetx>
+          <offsety>0.583461761</offsety>
+          <tilex>0.133789063</tilex>
+          <tiley>0.133789063</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41366</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8280144</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41382</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.6598511</offsetx>
+          <offsety>0.662780762</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41400</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.985321045</offsetx>
+          <offsety>0.105438232</offsety>
+          <tilex>0.0078125</tilex>
+          <tiley>0.0078125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41448</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.883731842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41456</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9784508</offsetx>
+          <offsety>0.8378258</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41484</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.8885803</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41498</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.875885</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41514</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9784508</offsetx>
+          <offsety>0.825130463</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41524</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9784508</offsetx>
+          <offsety>0.81243515</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41532</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.8631897</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41540</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.98531723</offsetx>
+          <offsety>0.08687973</offsety>
+          <tilex>0.0087890625</tilex>
+          <tiley>0.0087890625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41574</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.80653</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41610</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.8456383</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41618</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.47246933</offsetx>
+          <offsety>0.94903183</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41642</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.897155762</offsetx>
+          <offsety>0.5836792</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41658</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7390938</offsetx>
+          <offsety>0.8035469</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41672</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.944149</offsetx>
+          <offsety>0.513484955</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41682</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.8504944</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41690</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.9882164</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41698</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.95401</offsetx>
+          <offsety>0.8377991</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41722</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.6200447</offsetx>
+          <offsety>0.9794197</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41748</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853287</offsetx>
+          <offsety>0.149391174</offsety>
+          <tilex>0.005859375</tilex>
+          <tiley>0.00585937453</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41776</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.929595947</offsetx>
+          <offsety>0.8377991</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41818</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.852481842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41838</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9051819</offsetx>
+          <offsety>0.8377991</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41872</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.908107758</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41886</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.47227478</offsetx>
+          <offsety>0.692001343</offsety>
+          <tilex>0.09765625</tilex>
+          <tiley>0.09765625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41918</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.837814331</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41960</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8807678</offsetx>
+          <offsety>0.8377991</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41980</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.85635376</offsetx>
+          <offsety>0.8377991</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>41998</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.944149</offsetx>
+          <offsety>0.46465683</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42070</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5809822</offsetx>
+          <offsety>0.9794197</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42078</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>-9.15527344E-05</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42144</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.8377991</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42152</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.16828537</offsetx>
+          <offsety>0.752269745</offsety>
+          <tilex>0.168945313</tilex>
+          <tiley>0.168945313</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42188</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.95401</offsetx>
+          <offsety>0.82510376</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42198</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850456</offsetx>
+          <offsety>0.7577019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42226</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.9774742</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42258</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.882717133</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42286</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.760631561</offsetx>
+          <offsety>0.955944061</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42302</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7391472</offsetx>
+          <offsety>0.955944061</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42316</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.551685333</offsetx>
+          <offsety>0.928638458</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42326</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.760631561</offsetx>
+          <offsety>0.9266472</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42356</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.929595947</offsetx>
+          <offsety>0.82510376</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42364</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.944149</offsetx>
+          <offsety>0.4158287</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42388</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8180542</offsetx>
+          <offsety>0.5836792</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42402</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9051819</offsetx>
+          <offsety>0.82510376</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42436</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7391472</offsetx>
+          <offsety>0.9266472</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42444</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.760631561</offsetx>
+          <offsety>0.8973503</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42452</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.992157</offsetx>
+          <offsety>0.09664917</offsety>
+          <tilex>0.0078125</tilex>
+          <tiley>0.0078125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42462</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7391472</offsetx>
+          <offsety>0.8973503</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42484</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.974498749</offsetx>
+          <offsety>0.6629753</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42536</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.600513458</offsetx>
+          <offsety>0.9794197</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42552</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0</offsetx>
+          <offsety>0</offsety>
+          <tilex>1</tilex>
+          <tiley>1</tiley>
+          <mapindex>-1</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42570</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.551685333</offsetx>
+          <offsety>0.8495369</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42582</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.708873749</offsetx>
+          <offsety>0.946178436</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42596</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.738952637</offsetx>
+          <offsety>0.5836792</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42706</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8807678</offsetx>
+          <offsety>0.82510376</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42718</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.966732</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42742</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.85635376</offsetx>
+          <offsety>0.82510376</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42758</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8173065</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42792</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7849808</offsetx>
+          <offsety>0.7117386</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42802</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9764519</offsetx>
+          <offsety>0.6131706</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42816</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.809864044</offsetx>
+          <offsety>-0.0006828308</offsety>
+          <tilex>0.174804688</tilex>
+          <tiley>0.174804688</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42860</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9764519</offsetx>
+          <offsety>0.583873749</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42870</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8573265</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42880</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.955989838</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42922</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.450122833</offsetx>
+          <offsety>0.936450958</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42950</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.6598511</offsetx>
+          <offsety>0.5836792</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>42960</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.588054657</offsetx>
+          <offsety>0.220867157</offsety>
+          <tilex>0.208007813</tilex>
+          <tiley>0.208007813</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43002</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.33745575</offsetx>
+          <offsety>0.848197937</offsety>
+          <tilex>0.111328125</tilex>
+          <tiley>0.111328125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43026</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5807495</offsetx>
+          <offsety>0.900085449</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43034</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5807495</offsetx>
+          <offsety>0.8209839</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43048</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9647713</offsetx>
+          <offsety>0.5624275</offsety>
+          <tilex>0.0185546875</tilex>
+          <tiley>0.0185546875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43066</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>-0.00230789185</offsetx>
+          <offsety>-0.00230789185</offsety>
+          <tilex>0.5908203</tilex>
+          <tiley>0.5908203</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43078</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.739082336</offsetx>
+          <offsety>0.7117386</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43088</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.82510376</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43106</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.94524765</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43126</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.993145</offsetx>
+          <offsety>0.114238739</offsety>
+          <tilex>0.0048828125</tilex>
+          <tiley>0.0048828125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43134</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.95401</offsetx>
+          <offsety>0.812408447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43148</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.929595947</offsetx>
+          <offsety>0.812408447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43182</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.737117767</offsetx>
+          <offsety>0.52715683</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43204</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9051819</offsetx>
+          <offsety>0.812408447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43216</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.928535461</offsetx>
+          <offsety>0.662910461</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43224</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8807678</offsetx>
+          <offsety>0.812408447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43232</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.993145</offsetx>
+          <offsety>0.122051239</offsety>
+          <tilex>0.0048828125</tilex>
+          <tiley>0.0048828125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43318</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.85635376</offsetx>
+          <offsety>0.812408447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43384</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853096</offsetx>
+          <offsety>0.0233955383</offsety>
+          <tilex>0.0107421875</tilex>
+          <tiley>0.0107421875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43394</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.934505463</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43408</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.985321045</offsetx>
+          <offsety>0.09664917</offsety>
+          <tilex>0.0078125</tilex>
+          <tiley>0.0078125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43418</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.231204987</offsetx>
+          <offsety>0.9216347</offsety>
+          <tilex>0.0615234375</tilex>
+          <tiley>0.0615234375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43432</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.9237633</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43458</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853134</offsetx>
+          <offsety>0.04586029</offsety>
+          <tilex>0.009765625</tilex>
+          <tiley>0.009765624</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43474</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5516472</offsetx>
+          <offsety>0.899303436</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43564</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5807495</offsetx>
+          <offsety>0.7418823</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43572</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319397</offsetx>
+          <offsety>0.812408447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43590</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5516472</offsetx>
+          <offsety>0.870006561</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43622</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.9774475</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43646</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.882637</offsetx>
+          <offsety>0.662910461</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43654</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.9647522</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43664</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8367386</offsetx>
+          <offsety>0.662910461</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43690</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.4236641</offsetx>
+          <offsety>0.960773468</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43698</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.1248436</offsetx>
+          <offsety>0.9217186</offsety>
+          <tilex>0.0400390625</tilex>
+          <tiley>0.0400390625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43706</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.9520569</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43714</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.9393616</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43730</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.737117767</offsetx>
+          <offsety>0.4783287</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43742</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9480667</offsetx>
+          <offsety>0.174629211</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43858</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.16828537</offsetx>
+          <offsety>0.583324432</offsety>
+          <tilex>0.168945313</tilex>
+          <tiley>0.168945313</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43866</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.836856842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43902</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.9130211</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43928</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853134</offsetx>
+          <offsety>0.035118103</offsety>
+          <tilex>0.009765625</tilex>
+          <tiley>0.009765624</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>43992</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.9022789</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44000</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.8915367</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44008</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.92666626</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44020</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.913970947</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44042</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5807495</offsetx>
+          <offsety>0.662780762</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44050</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7967987</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44058</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.901275635</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44066</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9021683</offsetx>
+          <offsety>0.174629211</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44100</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.856269836</offsetx>
+          <offsety>0.174629211</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44110</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5807495</offsetx>
+          <offsety>0.5836792</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44128</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8103714</offsetx>
+          <offsety>0.174629211</offsety>
+          <tilex>0.044921875</tilex>
+          <tiley>0.044921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44148</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.914981842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44190</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7850914</offsetx>
+          <offsety>0.8807945</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44298</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.821231842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44322</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5516472</offsetx>
+          <offsety>0.8202019</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44332</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.168704987</offsetx>
+          <offsety>0.9216347</offsety>
+          <tilex>0.0615234375</tilex>
+          <tiley>0.0615234375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44342</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.899337769</offsetx>
+          <offsety>0.563400269</offsety>
+          <tilex>0.01953125</tilex>
+          <tiley>0.01953125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44430</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.0622596741</offsetx>
+          <offsety>0.9216347</offsety>
+          <tilex>0.0615234375</tilex>
+          <tiley>0.0615234375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44460</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9784508</offsetx>
+          <offsety>0.75774765</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44468</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.5516472</offsetx>
+          <offsety>0.790905</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44516</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>-0.000240325928</offsetx>
+          <offsety>0.9216347</offsety>
+          <tilex>0.0615234375</tilex>
+          <tiley>0.0615234375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44544</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8065491</offsetx>
+          <offsety>0.8885803</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44552</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.760650635</offsetx>
+          <offsety>0.98526</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44572</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>-0.0006599426</offsetx>
+          <offsety>0.752269745</offsety>
+          <tilex>0.168945313</tilex>
+          <tiley>0.168945313</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44594</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853096</offsetx>
+          <offsety>0.0116767883</offsety>
+          <tilex>0.0107421875</tilex>
+          <tiley>0.0107421875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44646</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.968658447</offsetx>
+          <offsety>0.742095947</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44668</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9784508</offsetx>
+          <offsety>0.7753258</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44678</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.4500847</offsetx>
+          <offsety>0.907115936</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44694</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9745178</offsetx>
+          <offsety>0.69229126</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44712</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>-0.0006599426</offsetx>
+          <offsety>0.583324432</offsety>
+          <tilex>0.168945313</tilex>
+          <tiley>0.168945313</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44724</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.472351074</offsetx>
+          <offsety>0.869812</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44766</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.722599</offsetx>
+          <offsety>0.868106842</offsety>
+          <tilex>0.0146484375</tilex>
+          <tiley>0.0146484375</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44792</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853134</offsetx>
+          <offsety>0.145469666</offsety>
+          <tilex>0.009765625</tilex>
+          <tiley>0.009765625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44802</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7088928</offsetx>
+          <offsety>0.9754944</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44820</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.472351074</offsetx>
+          <offsety>0.790710449</offsety>
+          <tilex>0.078125</tilex>
+          <tiley>0.07812501</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44850</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.255767822</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44858</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.739192963</offsetx>
+          <offsety>0.9852867</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44868</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.380695343</offsetx>
+          <offsety>0.960773468</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44896</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.23135376</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44904</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.97649765</offsetx>
+          <offsety>0.6425133</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44922</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.8319359</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44978</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.3377266</offsetx>
+          <offsety>0.960773468</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>44992</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.193267822</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45010</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.16885376</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45018</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.08682251</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45040</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.293781281</offsetx>
+          <offsety>0.9627266</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45048</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.737117767</offsetx>
+          <offsety>0.42950058</offsety>
+          <tilex>0.0478515625</tilex>
+          <tiley>0.0478515625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45082</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.7089195</offsetx>
+          <offsety>0.9882164</offsety>
+          <tilex>0.0166015625</tilex>
+          <tiley>0.0166015625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45090</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0</offsetx>
+          <offsety>0</offsety>
+          <tilex>1</tilex>
+          <tiley>1</tiley>
+          <mapindex>-1</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45142</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.124835968</offsetx>
+          <offsety>0.9627266</offsety>
+          <tilex>0.0419921875</tilex>
+          <tiley>0.0419921875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45152</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.806545258</offsetx>
+          <offsety>0.787014</offsety>
+          <tilex>0.0244140625</tilex>
+          <tiley>0.0244140625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45162</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.4500847</offsetx>
+          <offsety>0.877819061</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45172</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.0624084473</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45196</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853096</offsetx>
+          <offsety>-4.196167E-05</offsety>
+          <tilex>0.0107421875</tilex>
+          <tiley>0.0107421875</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45222</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.4500847</offsetx>
+          <offsety>0.8485222</offsety>
+          <tilex>0.0283203125</tilex>
+          <tiley>0.0283203125</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45230</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.9853134</offsetx>
+          <offsety>0.0673446655</offsety>
+          <tilex>0.009765626</tilex>
+          <tiley>0.009765625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45282</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.588291168</offsetx>
+          <offsety>0.429111481</offsety>
+          <tilex>0.147460938</tilex>
+          <tiley>0.147460938</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45290</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.02432251</offsetx>
+          <offsety>0.984283447</offsety>
+          <tilex>0.0234375</tilex>
+          <tiley>0.0234374981</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>45376</int>
+      </Key>
+      <value type="LightmappedObject, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <LightmappedObject>
+          <offsetx>0.98531723</offsetx>
+          <offsety>0.0771141052</offsety>
+          <tilex>0.0087890625</tilex>
+          <tiley>0.0087890625</tiley>
+          <mapindex>0</mapindex>
+        </LightmappedObject>
+      </value>
+    </Item>
+  </LightmappedObjects>
+  <Lightmaps>
+    <Item>
+      <Key type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <int>0</int>
+      </Key>
+      <value type="Lightmap, LightmapManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <Lightmap>
+          <far>LightmapFar-0.exr</far>
+          <near />
+        </Lightmap>
+      </value>
+    </Item>
+  </Lightmaps>
+</LightmappedScene>

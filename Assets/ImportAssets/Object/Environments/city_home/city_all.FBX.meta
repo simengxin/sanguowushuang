@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: e13b8cd074e9c9f42bfec13c1a052e6b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: city_fangzi01
+    100004: city_fangzi02
+    100006: city_fangzi03
+    100008: city_fangzi04
+    100010: city_fangzi05
+    100012: city_fangzi06
+    100014: city_fangzi07
+    100016: city_fangzi08
+    100018: city_fangzi09
+    100020: city_fangzi10
+    100022: city_fangzi11
+    100024: city_fangzi12
+    100026: city_fangzi13
+    100028: city_fangzi14
+    100030: city_wujian
+    100032: city_wujiangge
+    100034: city_zhanyi
+    100036: city_zhenrong
+    100038: Particle View 01
+    100040: Particle View 01 1
+    100042: Particle View 01 2
+    100044: Particle View 01 3
+    100046: Particle View 01 4
+    100048: Particle View 01 5
+    100050: Particle View 01 6
+    100052: Plane01
+    100054: city_dimian
+    400000: //RootNode
+    400002: city_fangzi01
+    400004: city_fangzi02
+    400006: city_fangzi03
+    400008: city_fangzi04
+    400010: city_fangzi05
+    400012: city_fangzi06
+    400014: city_fangzi07
+    400016: city_fangzi08
+    400018: city_fangzi09
+    400020: city_fangzi10
+    400022: city_fangzi11
+    400024: city_fangzi12
+    400026: city_fangzi13
+    400028: city_fangzi14
+    400030: city_wujian
+    400032: city_wujiangge
+    400034: city_zhanyi
+    400036: city_zhenrong
+    400038: Particle View 01
+    400040: Particle View 01 1
+    400042: Particle View 01 2
+    400044: Particle View 01 3
+    400046: Particle View 01 4
+    400048: Particle View 01 5
+    400050: Particle View 01 6
+    400052: Plane01
+    400054: city_dimian
+    2300000: city_fangzi01
+    2300002: city_fangzi02
+    2300004: city_fangzi03
+    2300006: city_fangzi04
+    2300008: city_fangzi05
+    2300010: city_fangzi06
+    2300012: city_fangzi07
+    2300014: city_fangzi08
+    2300016: city_fangzi09
+    2300018: city_fangzi10
+    2300020: city_fangzi11
+    2300022: city_fangzi12
+    2300024: city_fangzi13
+    2300026: city_fangzi14
+    2300028: city_wujian
+    2300030: city_wujiangge
+    2300032: city_zhanyi
+    2300034: city_zhenrong
+    2300036: Plane01
+    2300038: city_dimian
+    3300000: city_fangzi01
+    3300002: city_fangzi02
+    3300004: city_fangzi03
+    3300006: city_fangzi04
+    3300008: city_fangzi05
+    3300010: city_fangzi06
+    3300012: city_fangzi07
+    3300014: city_fangzi08
+    3300016: city_fangzi09
+    3300018: city_fangzi10
+    3300020: city_fangzi11
+    3300022: city_fangzi12
+    3300024: city_fangzi13
+    3300026: city_fangzi14
+    3300028: city_wujian
+    3300030: city_wujiangge
+    3300032: city_zhanyi
+    3300034: city_zhenrong
+    3300036: Plane01
+    3300038: city_dimian
+    4300000: Plane01
+    4300002: city_wujian
+    4300004: city_fangzi13
+    4300006: city_zhanyi
+    4300008: city_fangzi02
+    4300010: city_wujiangge
+    4300012: city_fangzi01
+    4300014: city_zhenrong
+    4300016: city_fangzi14
+    4300018: city_fangzi12
+    4300020: city_fangzi04
+    4300022: city_fangzi03
+    4300024: city_fangzi11
+    4300026: city_fangzi10
+    4300028: city_fangzi05
+    4300030: city_fangzi06
+    4300032: city_fangzi07
+    4300034: city_fangzi09
+    4300036: city_fangzi08
+    4300038: city_dimian
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

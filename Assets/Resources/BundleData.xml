@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Bundles RootDirectory_StandaloneWindow="E:/Client/AssetBundle">
+  <Bundle Name="NpcHUD" Path="" BundleType="1" Assets="Assets/Resources/HUD/NpcHUD.prefab" Dependency="" />
+  <Bundle Name="WarriorPanel" Path="" BundleType="1" Assets="Assets/Resources/UI/Panel/WarriorPanel.prefab" Dependency="" />
+</Bundles>

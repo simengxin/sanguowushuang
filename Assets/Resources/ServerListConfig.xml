@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Servers>
+	<Server ID="10001" Name="1区长坂坡" IP="172.19.35.194" Port="2001" State="2" Recommended="0" New="0"/>
+	<Server ID="10002" Name="2区华容道" IP="127.0.0.1" Port="2001" State="1" Recommended="0" New="0"/>
+	<Server ID="10003" Name="3区白帝城" IP="127.0.0.1" Port="2001" State="3" Recommended="0" New="0"/>
+	<Server ID="10004" Name="4区落凤坡" IP="127.0.0.1" Port="2001" State="4" Recommended="0" New="1"/>
+	<Server ID="10005" Name="5区赤壁" IP="127.0.0.1" Port="2001" State="1" Recommended="0" New="1"/>
+	<Server ID="10006" Name="6区青云堡" IP="127.0.0.1" Port="2001" State="2" Recommended="0" New="1"/>
+</Servers>
